@@ -15,9 +15,9 @@ There are 2 indication LEDs for status, green and red LEDs -
 
 The dimension of the PCB are 33mm X 10mm, it is a 2 layers PCB with compoenents assembled only on the TOP layer
 
-Top view - 
+Top view - \ 
 ![image](https://user-images.githubusercontent.com/119447042/212188589-60668929-589c-4c21-b75b-a4168886604b.png)
 
-Bottom view - 
+Bottom view -  \
 ![image](https://user-images.githubusercontent.com/119447042/212188629-1f806481-5ab1-419d-8a1f-1052dd723c13.png)
 
