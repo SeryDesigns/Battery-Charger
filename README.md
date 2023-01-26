@@ -1,5 +1,10 @@
 # Battery-Charger
 
+## Project status 
+Manufactured, assembled, not tested yet
+
+## Project overview
+
 Li-Ion battery charger, based on BQ24060 IC, this simple PCB takes 5V as input and charges
 a 3.7V Li-Ion battery. \
 The charger has output short circuit protection and optional thermal protection. \
