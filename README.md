@@ -15,7 +15,7 @@ There are 2 indication LEDs for status, green and red LEDs -
 |-------------|-------------------------------|
 | Green + Red | Precharge in progress         |
 | Red         | Fast charge in progress       |
-| Green       | Fast charge in progress       |
+| Green       | Fully charged                 |
 | None        | Power off / suspended / fault |
 
 The dimension of the PCB are 33mm X 10mm, it is a 2 layers PCB with compoenents assembled only on the TOP layer
