@@ -26,5 +26,5 @@ Top view - \
 Bottom view -  \
 ![image](https://user-images.githubusercontent.com/119447042/212188629-1f806481-5ab1-419d-8a1f-1052dd723c13.png)
 
-I've created a short time lapse video of the design process, you can click the link below to check it out on my YouTube channel 
+I've created a short time lapse video of the design process, you can click the link below to check it out on my YouTube channel \
 [![Battery charger PCB design in 5 minutes (time lapse)](https://img.youtube.com/vi/Mz6wxAzDqSU/hqdefault.jpg)](https://youtu.be/Mz6wxAzDqSU)
