@@ -26,4 +26,5 @@ Top view - \
 Bottom view -  \
 ![image](https://user-images.githubusercontent.com/119447042/212188629-1f806481-5ab1-419d-8a1f-1052dd723c13.png)
 
-[I've created a short time lapse video of the design process](https://youtube.com/watch?v=Mz6wxAzDqSU&si=EnSIkaIECMiOmarE)
+I've created a short time lapse video of the design process, check it out on my YouTube channel 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Mz6wxAzDqSU/hqdefault.jpg)](https://youtu.be/Mz6wxAzDqSU)
